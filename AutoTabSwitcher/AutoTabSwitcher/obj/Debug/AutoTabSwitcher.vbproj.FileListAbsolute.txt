@@ -1,0 +1,12 @@
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.exe.config
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.exe
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.pdb
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.xml
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.MainMenu.resources
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.Resources.resources
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.vbproj.GenerateResource.Cache
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.exe
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.xml
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\obj\Debug\AutoTabSwitcher.pdb
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.exe.CodeAnalysisLog.xml
+C:\Users\dchow\Documents\Visual Studio 2015\Projects\AutoTabSwitcher\AutoTabSwitcher\bin\Debug\AutoTabSwitcher.exe.lastcodeanalysissucceeded
